@@ -1,1 +1,0 @@
-time /t>>D:\\IP.log
